@@ -1,0 +1,15 @@
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/refint/Example002_HelloUser.dll
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/mschneider/Documents/GeekBrains/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
